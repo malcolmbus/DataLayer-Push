@@ -1,0 +1,5 @@
+homepage: "https://github.com/malcolmbus/DataLayer-Push"
+documentation: "https://github.com/malcolmbus/DataLayer-Push/blob/main/README.md"
+versions:
+  - sha: 1ab8e96d15566495f8d18c90f80bf9db50a596ad
+    changeNotes: Initial release.
